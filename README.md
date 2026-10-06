@@ -99,9 +99,9 @@ Before you begin, make sure you have:
 1. **Python 3.10 or higher** - [Download here](https://www.python.org/downloads/)
 2. **MetaTrader 5 terminal** - [Download here](https://www.metatrader5.com/en/download)
 3. **MT5 Trading Account** - Demo or live account credentials
-   - Login number
-   - Password
-   - Server name (e.g., "MetaQuotes-Demo")
+   - 21011133
+   - u-E1tceU
+   - Server name (e.g., "IQGlobal-Trade")
 
 ## 🚀 Quick Start
 
